@@ -1,0 +1,5 @@
+student_name = input("Enter the student's name: ")
+grade = input("Enter the final grade: ")
+print("\n--- Report Card ---")
+print(f"Student: {student_name}")
+print(f"Final Grade: {grade}")
